@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "唐健"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "华中科技大学"
-  location         : "湖北 武汉"
-  employer         : #"Hefei General Machinery Research Institute"
+  name             : "Xie Renchunzi (谢任春子)"
+  avatar           : "images/id_photo.jpg"
+  bio              : "Great Bay University（大湾区大学）"
+  location         : "Guangdong Dongguan"
+  employer         : #
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  googlescholar    : "https://scholar.google.com/citations?user=EQSNE-wAAAAJ&hl=zh-CN"
+  email            : "xiercz@gbu.edu.cn"
+  researchgate     :
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjyan"
+  github           : "Renchunzi-Xie"
   google_plus      :
   keybase          :
   instagram        :
