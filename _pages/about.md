@@ -96,14 +96,10 @@ My research insterests include：
 [[Paper]](https://arxiv.org/pdf/1910.03434)
 ### Working
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/std.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 -	`Renchunzi Xie`, Beier Luo, Weijian Deng. A Model Knows When It Knows: What Cross-Entropy Loss Reveals about Large-Language-Model Performance?.   
 [[arxiv]](TODO) 
 
-</div>
-</div>
 <span class='anchor' id='-ryjx'></span>
 
 [comment]: <> (# 🏅 荣誉奖项)
