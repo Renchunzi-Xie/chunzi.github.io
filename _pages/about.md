@@ -26,7 +26,7 @@ My research insterests include：
 - Unsupervised Model Performance Estimation
 - Interpretability
 
-🔥 <font color="pink"> We are always actively looking for Postdocs, PhDs, and RA/interns to join our research.</font>
+🔥 <font color="red"> We are always actively looking for Postdocs, PhDs, and RA/interns to join our research.</font>
 
 <span class='anchor' id='-xl'></span>
 
