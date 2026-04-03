@@ -49,33 +49,55 @@ My research insterests include：
 ### Publications
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>)
 
+[//]: # (<div class='paper-box-text' markdown="1">)
+
+[//]: # ()
+[//]: # (-	**Renchunzi Xie**, Ambroise Odonnat, Vasilii Feofanov, Ievgen Redko, Jianfeng Zhang, Bo An<sup>*</sup>. Leveraging Gradients for Unsupervised Accuracy Estimation under Distribution Shift. *TMLR 2025*. )
+
+[//]: # ([[Paper]]&#40;https://arxiv.org/pdf/2401.08909&#41; [[Code]]&#40;https://github.com/Renchunzi-Xie/GdScore&#41;)
+
+[//]: # ()
+[//]: # (</div>)
+
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>)
+
+[//]: # (<div class='paper-box-text' markdown="1">)
+
+[//]: # ()
+[//]: # (-	<b>Renchunzi Xie</b>, Ambroise Odonnat, Vasilii Feofanov, Weijian Deng, Jianfeng Zhang, Bo An<sup>*</sup>. MANO: Exploiting Matrix Norm for Unsupervised Accuracy Estimation Under Distribution Shifts. *NeurIPS 2024*. )
+
+[//]: # ([[Paper]]&#40;https://arxiv.org/pdf/2405.18979&#41; [[Code]]&#40;https://github.com/Renchunzi-Xie/MaNo&#41;)
+
+[//]: # ()
+[//]: # (</div>)
+
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # ()
+[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>)
+
+[//]: # (<div class='paper-box-text' markdown="1">)
+
+[//]: # ()
+[//]: # (- <b>Renchunzi Xie</b>, Hongxin Wei, Yuzhou Cao, Lei Feng, Bo An<sup>*</sup>. On the Importance of Feature Separability in Predicting Out-Of-Distribution Error. *NeurIPS 2023*. )
+
+[//]: # ([[Paper]]&#40;https://proceedings.neurips.cc/paper_files/paper/2023/file/585e9cf25585612ac27b535457116513-Paper-Conference.pdf&#41; [[Code]]&#40;https://github.com/Renchunzi-Xie/Dispersion&#41;)
+
+[//]: # (</div>)
+
+[//]: # (</div>)
 -	**Renchunzi Xie**, Ambroise Odonnat, Vasilii Feofanov, Ievgen Redko, Jianfeng Zhang, Bo An<sup>*</sup>. Leveraging Gradients for Unsupervised Accuracy Estimation under Distribution Shift. *TMLR 2025*. 
 [[Paper]](https://arxiv.org/pdf/2401.08909) [[Code]](https://github.com/Renchunzi-Xie/GdScore)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 -	<b>Renchunzi Xie</b>, Ambroise Odonnat, Vasilii Feofanov, Weijian Deng, Jianfeng Zhang, Bo An<sup>*</sup>. MANO: Exploiting Matrix Norm for Unsupervised Accuracy Estimation Under Distribution Shifts. *NeurIPS 2024*. 
 [[Paper]](https://arxiv.org/pdf/2405.18979) [[Code]](https://github.com/Renchunzi-Xie/MaNo)
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 - <b>Renchunzi Xie</b>, Hongxin Wei, Yuzhou Cao, Lei Feng, Bo An<sup>*</sup>. On the Importance of Feature Separability in Predicting Out-Of-Distribution Error. *NeurIPS 2023*. 
 [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/585e9cf25585612ac27b535457116513-Paper-Conference.pdf) [[Code]](https://github.com/Renchunzi-Xie/Dispersion)
-</div>
-</div>
-
 - Hongxin Wei, Huiping Zhuang, <b>Renchunzi Xie</b>, Lei Feng, Gang Niu, Bo An, Yixuan Li. Mitigating memorization of noisy labels by clipping the model prediction. *ICML 2023*. 
 [[Paper]](https://proceedings.mlr.press/v202/wei23e/wei23e.pdf) 
 - Huiping Zhuang, Zhenyu Weng, Hongxin Wei, <b>Renchunzi Xie</b>, Kar-Ann Toh, Zhiping Lin. ACIL: Analytic class-incremental learning with absolute memorization and privacy protection. *NeurIPS 2022*.
@@ -102,6 +124,9 @@ My research insterests include：
 
 <span class='anchor' id='-ryjx'></span>
 
+# 🏛️ Teaching
+- lecturer for Introduction to Computer Science, Great Bay Univesity, Spring 2026
+
 [comment]: <> (# 🏅 荣誉奖项)
 
 [comment]: <> (- )
@@ -112,9 +137,9 @@ My research insterests include：
 
 [comment]: <> (- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告)
 
-[comment]: <> (- *2019.09*, 第十九届国际应用电磁学与力学会议 &#40;ISEM 2019&#41;, 江苏南京, 海报)
+[comment]: <> (- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报)
 
-[comment]: <> (- *2017.10*, 第六届中国国际管道会议 &#40;CIPC 2017&#41;, 河北廊坊)
+[comment]: <> (- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊)
 
 [comment]: <> (<span class='anchor' id='-gzsx'></span>)
 
