@@ -92,29 +92,29 @@ My research insterests include：
 [//]: # (</div>)
 
 [//]: # (</div>)
--	**Renchunzi Xie**, Ambroise Odonnat, Vasilii Feofanov, Ievgen Redko, Jianfeng Zhang, Bo An<sup>*</sup>. Leveraging Gradients for Unsupervised Accuracy Estimation under Distribution Shift. *TMLR 2025*. 
+-	`Renchunzi Xie`, Ambroise Odonnat, Vasilii Feofanov, Ievgen Redko, Jianfeng Zhang, Bo An<sup>*</sup>. Leveraging Gradients for Unsupervised Accuracy Estimation under Distribution Shift. *TMLR 2025*. 
 [[Paper]](https://arxiv.org/pdf/2401.08909) [[Code]](https://github.com/Renchunzi-Xie/GdScore)
--	<b>Renchunzi Xie</b>, Ambroise Odonnat, Vasilii Feofanov, Weijian Deng, Jianfeng Zhang, Bo An<sup>*</sup>. MANO: Exploiting Matrix Norm for Unsupervised Accuracy Estimation Under Distribution Shifts. *NeurIPS 2024*. 
+-	`Renchunzi Xie`, Ambroise Odonnat, Vasilii Feofanov, Weijian Deng, Jianfeng Zhang, Bo An<sup>*</sup>. MANO: Exploiting Matrix Norm for Unsupervised Accuracy Estimation Under Distribution Shifts. *NeurIPS 2024*. 
 [[Paper]](https://arxiv.org/pdf/2405.18979) [[Code]](https://github.com/Renchunzi-Xie/MaNo)
-- <b>Renchunzi Xie</b>, Hongxin Wei, Yuzhou Cao, Lei Feng, Bo An<sup>*</sup>. On the Importance of Feature Separability in Predicting Out-Of-Distribution Error. *NeurIPS 2023*. 
+- `Renchunzi Xie`, Hongxin Wei, Yuzhou Cao, Lei Feng, Bo An<sup>*</sup>. On the Importance of Feature Separability in Predicting Out-Of-Distribution Error. *NeurIPS 2023*. 
 [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/585e9cf25585612ac27b535457116513-Paper-Conference.pdf) [[Code]](https://github.com/Renchunzi-Xie/Dispersion)
-- Hongxin Wei, Huiping Zhuang, <b>Renchunzi Xie</b>, Lei Feng, Gang Niu, Bo An, Yixuan Li. Mitigating memorization of noisy labels by clipping the model prediction. *ICML 2023*. 
+- Hongxin Wei, Huiping Zhuang, `Renchunzi Xie`, Lei Feng, Gang Niu, Bo An, Yixuan Li. Mitigating memorization of noisy labels by clipping the model prediction. *ICML 2023*. 
 [[Paper]](https://proceedings.mlr.press/v202/wei23e/wei23e.pdf) 
-- Huiping Zhuang, Zhenyu Weng, Hongxin Wei, <b>Renchunzi Xie</b>, Kar-Ann Toh, Zhiping Lin. ACIL: Analytic class-incremental learning with absolute memorization and privacy protection. *NeurIPS 2022*.
+- Huiping Zhuang, Zhenyu Weng, Hongxin Wei, `Renchunzi Xie`, Kar-Ann Toh, Zhiping Lin. ACIL: Analytic class-incremental learning with absolute memorization and privacy protection. *NeurIPS 2022*.
 [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/4b74a42fc81fc7ee252f6bcb6e26c8be-Paper-Conference.pdf)
-- Hongxin Wei, Lue Tao, <b>Renchunzi Xie</b>, Lei Feng, Bo An. Open-sampling: Exploring out-of-distribution data for re-balancing long-tailed datasets. *ICML 2022*
+- Hongxin Wei, Lue Tao, `Renchunzi Xie`, Lei Feng, Bo An. Open-sampling: Exploring out-of-distribution data for re-balancing long-tailed datasets. *ICML 2022*
 [[Paper]](https://proceedings.mlr.press/v162/wei22c/wei22c.pdf)
-- Hongxin Wei, <b>Renchunzi Xie</b>, Hao Cheng, Lei Feng, Bo An, Yixuan Li. Mitigating neural network overconfidence with logit normalization. *ICML 2022*
+- Hongxin Wei, `Renchunzi Xie`, Hao Cheng, Lei Feng, Bo An, Yixuan Li. Mitigating neural network overconfidence with logit normalization. *ICML 2022*
 [[Paper]](https://proceedings.mlr.press/v162/wei22d/wei22d.pdf)
-- Hongxin Wei, <b>Renchunzi Xie</b>, Lei Feng, Bo Han, Bo An. Deep learning from multiple noisy annotators as a union. *TNNLS 2022*
+- Hongxin Wei, `Renchunzi Xie`, Lei Feng, Bo Han, Bo An. Deep learning from multiple noisy annotators as a union. *TNNLS 2022*
 [[Paper]](https://hongxin001.github.io/docs/papers/2022TNNLS.pdf)
-- <b>Renchunzi Xie</b>, Hongxin Wei, Lei Feng, Bo An. GearNet: Stepwise Dual Learning for Weakly Supervised Domain Adaptation. *AAAI 2022*
+- `Renchunzi Xie`, Hongxin Wei, Lei Feng, Bo An. GearNet: Stepwise Dual Learning for Weakly Supervised Domain Adaptation. *AAAI 2022*
 [[Paper]](https://arxiv.org/pdf/2201.06001) [[Code]](https://github.com/Renchunzi-Xie/GearNet)
-- <b>Renchunzi Xie</b>, Mahardhika Pratama. Automatic online multi-source domain adaptation. *Information Sciences 2022*
+- `Renchunzi Xie`, Mahardhika Pratama. Automatic online multi-source domain adaptation. *Information Sciences 2022*
 [[Paper]](https://arxiv.org/abs/2109.01996) [[Code]](https://github.com/Renchunzi-Xie/AOMSDA)
-- Hongxin Wei, Lue Tao, <b>Renchunzi Xie</b>, Bo An. Open-set label noise can improve robustness against inherent label noise. *NeurIPS 2021*
+- Hongxin Wei, Lue Tao, `Renchunzi Xie`, Bo An. Open-set label noise can improve robustness against inherent label noise. *NeurIPS 2021*
 [[Paper]](https://arxiv.org/abs/2106.10891)
-- Mahardhika Pratama, Marcus de Carvalho, <b>Renchunzi Xie</b>, Edwin Lughofer, Jie Lu. ATL: Autonomous knowledge transfer from many streaming processes. *CIKM 2019*
+- Mahardhika Pratama, Marcus de Carvalho, `Renchunzi Xie`, Edwin Lughofer, Jie Lu. ATL: Autonomous knowledge transfer from many streaming processes. *CIKM 2019*
 [[Paper]](https://arxiv.org/pdf/1910.03434)
 ### Working
 ---
