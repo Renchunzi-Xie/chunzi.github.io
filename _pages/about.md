@@ -92,11 +92,11 @@ My research insterests include：
 [//]: # (</div>)
 
 [//]: # (</div>)
--	`Renchunzi Xie`, Ambroise Odonnat, Vasilii Feofanov, Ievgen Redko, Jianfeng Zhang, Bo An<sup>*</sup>. Leveraging Gradients for Unsupervised Accuracy Estimation under Distribution Shift. *TMLR 2025*. 
+-	`Renchunzi Xie`, Ambroise Odonnat, Vasilii Feofanov, Ievgen Redko, Jianfeng Zhang, Bo An. Leveraging Gradients for Unsupervised Accuracy Estimation under Distribution Shift. *TMLR 2025*. 
 [[Paper]](https://arxiv.org/pdf/2401.08909) [[Code]](https://github.com/Renchunzi-Xie/GdScore)
--	`Renchunzi Xie`, Ambroise Odonnat, Vasilii Feofanov, Weijian Deng, Jianfeng Zhang, Bo An<sup>*</sup>. MANO: Exploiting Matrix Norm for Unsupervised Accuracy Estimation Under Distribution Shifts. *NeurIPS 2024*. 
+-	`Renchunzi Xie`, Ambroise Odonnat, Vasilii Feofanov, Weijian Deng, Jianfeng Zhang, Bo An. MANO: Exploiting Matrix Norm for Unsupervised Accuracy Estimation Under Distribution Shifts. *NeurIPS 2024*. 
 [[Paper]](https://arxiv.org/pdf/2405.18979) [[Code]](https://github.com/Renchunzi-Xie/MaNo)
-- `Renchunzi Xie`, Hongxin Wei, Yuzhou Cao, Lei Feng, Bo An<sup>*</sup>. On the Importance of Feature Separability in Predicting Out-Of-Distribution Error. *NeurIPS 2023*. 
+- `Renchunzi Xie`, Hongxin Wei, Yuzhou Cao, Lei Feng, Bo An. On the Importance of Feature Separability in Predicting Out-Of-Distribution Error. *NeurIPS 2023*. 
 [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/585e9cf25585612ac27b535457116513-Paper-Conference.pdf) [[Code]](https://github.com/Renchunzi-Xie/Dispersion)
 - Hongxin Wei, Huiping Zhuang, `Renchunzi Xie`, Lei Feng, Gang Niu, Bo An, Yixuan Li. Mitigating memorization of noisy labels by clipping the model prediction. *ICML 2023*. 
 [[Paper]](https://proceedings.mlr.press/v202/wei23e/wei23e.pdf) 
