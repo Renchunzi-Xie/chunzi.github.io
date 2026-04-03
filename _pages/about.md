@@ -124,7 +124,15 @@ My research insterests include：
 
 <span class='anchor' id='-ryjx'></span>
 
+# 🧐 Invited Conference Reviewer:
+- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD): 2026
+- Neural Information Processing Systems (NeurIPS): 2023, 2024, 2025
+- International Conference on Machine Learning (ICML): 2025
+- International Conference on Learning Representations (ICLR): 2024, 2025
+- International Conference on Artificial Intelligence and Statistics (AISTATS): 2025
+- International Conference on Autonomous Agents and Multiagent Systems (AAMAS): 2025
+
 # 🏛️ Teaching
 - lecturer for Introduction to Computer Science, Great Bay Univesity, Spring 2026
-
+<span class='anchor' id='-ryjx'></span>
 
