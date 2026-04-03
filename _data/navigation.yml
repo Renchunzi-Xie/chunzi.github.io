@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: "/docs/resume.pdf"
+    url: "../docs/resume.pdf"
 
 #  - title: "Publication & Patent"
 #    url: "/zh-cn/#-lwzl"
