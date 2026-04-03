@@ -127,26 +127,4 @@ My research insterests include：
 # 🏛️ Teaching
 - lecturer for Introduction to Computer Science, Great Bay Univesity, Spring 2026
 
-[comment]: <> (# 🏅 荣誉奖项)
 
-[comment]: <> (- )
-
-[comment]: <> (<span class='anchor' id='-xshy'></span>)
-
-[comment]: <> (# 🏛️ 学术会议)
-
-[comment]: <> (- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告)
-
-[comment]: <> (- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报)
-
-[comment]: <> (- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊)
-
-[comment]: <> (<span class='anchor' id='-gzsx'></span>)
-
-[comment]: <> (# 💻 Working Experience)
-
-[comment]: <> (- *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆)
-
-[comment]: <> (- *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石)
-
-[comment]: <> (- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉)
