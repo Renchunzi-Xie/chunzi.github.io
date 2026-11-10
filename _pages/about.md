@@ -48,6 +48,10 @@ redirect_from:
   <h2 class="section__title"><span class="section__icon">📰</span> News</h2>
   <ul class="timeline">
     <li class="timeline__item">
+      <span class="timeline__date">Nov 2026</span>
+      <div class="timeline__body">I was invited to serve as a <strong>Senior Program Committee (SPC)</strong> member of <span class="tag">IJCAI</span>.</div>
+    </li>
+    <li class="timeline__item">
       <span class="timeline__date">Dec 2025</span>
       <div class="timeline__body">I joined <strong>Great Bay University (GBU)</strong> as an Assistant Professor.</div>
     </li>
