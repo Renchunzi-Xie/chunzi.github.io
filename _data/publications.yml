@@ -1,0 +1,121 @@
+# Publications list — rendered on /publications/
+# authors: write "Renchunzi Xie*" to mark me as corresponding author.
+# type: conference | journal | preprint
+# lead: true if I am first or corresponding author
+
+- title: "A Model Knows When It Knows: What Cross-Entropy Loss Reveals about Large-Language-Model Performance?"
+  authors: "Renchunzi Xie, Beier Luo, Weijian Deng"
+  venue: "Under review"
+  short: "Preprint"
+  year: "Preprint"
+  type: preprint
+  lead: true
+
+- title: "Leveraging Gradients for Unsupervised Accuracy Estimation under Distribution Shift"
+  authors: "Renchunzi Xie, Ambroise Odonnat, Vasilii Feofanov, Ievgen Redko, Jianfeng Zhang, Bo An"
+  venue: "Transactions on Machine Learning Research"
+  short: "TMLR"
+  year: 2025
+  type: journal
+  lead: true
+  paper: "https://arxiv.org/pdf/2401.08909"
+  code: "https://github.com/Renchunzi-Xie/GdScore"
+
+- title: "MANO: Exploiting Matrix Norm for Unsupervised Accuracy Estimation Under Distribution Shifts"
+  authors: "Renchunzi Xie, Ambroise Odonnat, Vasilii Feofanov, Weijian Deng, Jianfeng Zhang, Bo An"
+  venue: "Advances in Neural Information Processing Systems"
+  short: "NeurIPS"
+  year: 2024
+  type: conference
+  lead: true
+  paper: "https://arxiv.org/pdf/2405.18979"
+  code: "https://github.com/Renchunzi-Xie/MaNo"
+
+- title: "On the Importance of Feature Separability in Predicting Out-Of-Distribution Error"
+  authors: "Renchunzi Xie, Hongxin Wei, Yuzhou Cao, Lei Feng, Bo An"
+  venue: "Advances in Neural Information Processing Systems"
+  short: "NeurIPS"
+  year: 2023
+  type: conference
+  lead: true
+  paper: "https://proceedings.neurips.cc/paper_files/paper/2023/file/585e9cf25585612ac27b535457116513-Paper-Conference.pdf"
+  code: "https://github.com/Renchunzi-Xie/Dispersion"
+
+- title: "Mitigating Memorization of Noisy Labels by Clipping the Model Prediction"
+  authors: "Hongxin Wei, Huiping Zhuang, Renchunzi Xie, Lei Feng, Gang Niu, Bo An, Yixuan Li"
+  venue: "International Conference on Machine Learning"
+  short: "ICML"
+  year: 2023
+  type: conference
+  paper: "https://proceedings.mlr.press/v202/wei23e/wei23e.pdf"
+
+- title: "ACIL: Analytic Class-Incremental Learning with Absolute Memorization and Privacy Protection"
+  authors: "Huiping Zhuang, Zhenyu Weng, Hongxin Wei, Renchunzi Xie, Kar-Ann Toh, Zhiping Lin"
+  venue: "Advances in Neural Information Processing Systems"
+  short: "NeurIPS"
+  year: 2022
+  type: conference
+  paper: "https://proceedings.neurips.cc/paper_files/paper/2022/file/4b74a42fc81fc7ee252f6bcb6e26c8be-Paper-Conference.pdf"
+
+- title: "Open-Sampling: Exploring Out-of-Distribution Data for Re-balancing Long-tailed Datasets"
+  authors: "Hongxin Wei, Lue Tao, Renchunzi Xie*, Lei Feng, Bo An"
+  venue: "International Conference on Machine Learning"
+  short: "ICML"
+  year: 2022
+  type: conference
+  lead: true
+  paper: "https://proceedings.mlr.press/v162/wei22c/wei22c.pdf"
+
+- title: "Mitigating Neural Network Overconfidence with Logit Normalization"
+  authors: "Hongxin Wei, Renchunzi Xie*, Hao Cheng, Lei Feng, Bo An, Yixuan Li"
+  venue: "International Conference on Machine Learning"
+  short: "ICML"
+  year: 2022
+  type: conference
+  lead: true
+  paper: "https://proceedings.mlr.press/v162/wei22d/wei22d.pdf"
+
+- title: "Deep Learning from Multiple Noisy Annotators as A Union"
+  authors: "Hongxin Wei, Renchunzi Xie, Lei Feng, Bo Han, Bo An"
+  venue: "IEEE Transactions on Neural Networks and Learning Systems"
+  short: "TNNLS"
+  year: 2022
+  type: journal
+  paper: "https://hongxin001.github.io/docs/papers/2022TNNLS.pdf"
+
+- title: "GearNet: Stepwise Dual Learning for Weakly Supervised Domain Adaptation"
+  authors: "Renchunzi Xie, Hongxin Wei, Lei Feng, Bo An"
+  venue: "AAAI Conference on Artificial Intelligence"
+  short: "AAAI"
+  year: 2022
+  type: conference
+  lead: true
+  paper: "https://arxiv.org/pdf/2201.06001"
+  code: "https://github.com/Renchunzi-Xie/GearNet"
+
+- title: "Automatic Online Multi-Source Domain Adaptation"
+  authors: "Renchunzi Xie, Mahardhika Pratama"
+  venue: "Information Sciences"
+  short: "InfoSci"
+  year: 2022
+  type: journal
+  lead: true
+  paper: "https://arxiv.org/abs/2109.01996"
+  code: "https://github.com/Renchunzi-Xie/AOMSDA"
+
+- title: "Open-set Label Noise Can Improve Robustness Against Inherent Label Noise"
+  authors: "Hongxin Wei, Lue Tao, Renchunzi Xie*, Bo An"
+  venue: "Advances in Neural Information Processing Systems"
+  short: "NeurIPS"
+  year: 2021
+  type: conference
+  lead: true
+  paper: "https://arxiv.org/abs/2106.10891"
+
+- title: "ATL: Autonomous Knowledge Transfer from Many Streaming Processes"
+  authors: "Mahardhika Pratama, Marcus de Carvalho, Renchunzi Xie, Edwin Lughofer, Jie Lu"
+  venue: "ACM International Conference on Information and Knowledge Management"
+  short: "CIKM"
+  year: 2019
+  type: conference
+  paper: "https://arxiv.org/pdf/1910.03434"

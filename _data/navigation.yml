@@ -1,16 +1,8 @@
-# main links links
+# Top navigation (order = page order)
 main:
+  - title: "About"
+    url: "/"
+  - title: "Publications"
+    url: "/publications/"
   - title: "CV"
-    url: "../docs/resume.pdf"
-
-#  - title: "Publication & Patent"
-#    url: "/zh-cn/#-lwzl"
-#
-#  - title: "Award"
-#    url: "/zh-cn/#-ryjx"
-#
-#  - title: "Academic Conference"
-#    url: "/zh-cn/#-xshy"
-#
-#  - title: "Working Experience"
-#    url: "/zh-cn/#-gzsx"
+    url: "/cv/"

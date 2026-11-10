@@ -7,8 +7,10 @@
 
 # Site Settings
 title                    : "Xie Renchunzi"
-description              : "Assistant Professor"
-repository               : "https://renchunzi-xie.github.io/chunzi.github.io/"
+description              : "Assistant Professor · Machine Learning"
+url                      : "https://renchunzi-xie.github.io"
+baseurl                  : "/chunzi.github.io"
+repository               : "Renchunzi-Xie/chunzi.github.io"
 google_scholar_stats_use_cdn : True
 
 # google analytics
