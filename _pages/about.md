@@ -24,9 +24,9 @@ redirect_from:
 
   <div class="chips">
     <span class="chips__label">Research interests</span>
-    <span class="chip"><i class="fas fa-chart-line"></i> Unsupervised Model Performance Estimation</span>
-    <span class="chip"><i class="fas fa-search"></i> Interpretability</span>
     <span class="chip"><i class="fas fa-shield-alt"></i> Robust Machine Learning</span>
+    <span class="chip"><i class="fas fa-chart-line"></i> Model Evaluation</span>
+    <span class="chip"><i class="fas fa-search"></i> Interpretability</span>
   </div>
 
 </section>
@@ -44,7 +44,7 @@ redirect_from:
   <ul class="timeline">
     <li class="timeline__item">
       <span class="timeline__date">Nov 2026</span>
-      <div class="timeline__body">I was invited to serve as a <strong>Senior Program Committee (SPC)</strong> member of <span class="tag">IJCAI</span>.</div>
+      <div class="timeline__body">I was invited to serve as a <strong>Senior Program Committee (SPC)</strong> member of <span class="tag">IJCAI 2027</span>.</div>
     </li>
     <li class="timeline__item">
       <span class="timeline__date">Dec 2025</span>
@@ -73,7 +73,7 @@ redirect_from:
   <section class="section reveal" id="service">
     <h2 class="section__title"><span class="section__icon">🧐</span> Academic Service</h2>
     <ul class="service-list">
-      <li><strong>Senior PC</strong>: IJCAI</li>
+      <li><strong>Senior PC</strong>: IJCAI 2027</li>
       <li><strong>Conference Reviewer</strong>: NeurIPS, ICML, ICLR, KDD, AISTATS, AAMAS</li>
     </ul>
   </section>

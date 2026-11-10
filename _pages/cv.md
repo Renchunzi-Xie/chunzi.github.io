@@ -29,10 +29,6 @@ author_profile: true
         <div class="timeline__body"><strong>Postdoctoral Researcher</strong> <span class="muted">(Supervisor: Prof. Bo An)</span><br>Nanyang Technological University <span class="muted">· Singapore</span></div>
       </li>
       <li class="timeline__item">
-        <span class="timeline__date">2024.02 – 2025.02</span>
-        <div class="timeline__body"><strong>Visiting Scholar</strong> <span class="muted">(Supervisor: Prof. Bingyi Jing)</span><br>Southern University of Science and Technology <span class="muted">· Shenzhen, China</span></div>
-      </li>
-      <li class="timeline__item">
         <span class="timeline__date">2023.06 – 2024.01</span>
         <div class="timeline__body"><strong>Research Intern</strong> <span class="muted">(Mentor: Jianfeng Zhang)</span><br>Huawei Noah's Ark Lab <span class="muted">· Shenzhen, China</span></div>
       </li>

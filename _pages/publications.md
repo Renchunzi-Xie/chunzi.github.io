@@ -30,7 +30,6 @@ author_profile: true
   <button class="filter" data-filter="lead">First / Corresponding</button>
   <button class="filter" data-filter="conference">Conference</button>
   <button class="filter" data-filter="journal">Journal</button>
-  <button class="filter" data-filter="preprint">Preprint</button>
 </div>
 
 {% assign groups = pubs | group_by: "year" %}

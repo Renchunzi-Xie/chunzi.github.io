@@ -3,14 +3,6 @@
 # type: conference | journal | preprint
 # lead: true if I am first or corresponding author
 
-- title: "A Model Knows When It Knows: What Cross-Entropy Loss Reveals about Large-Language-Model Performance?"
-  authors: "Renchunzi Xie, Beier Luo, Weijian Deng"
-  venue: "Under review"
-  short: "Preprint"
-  year: "Preprint"
-  type: preprint
-  lead: true
-
 - title: "Leveraging Gradients for Unsupervised Accuracy Estimation under Distribution Shift"
   authors: "Renchunzi Xie, Ambroise Odonnat, Vasilii Feofanov, Ievgen Redko, Jianfeng Zhang, Bo An"
   venue: "Transactions on Machine Learning Research"
