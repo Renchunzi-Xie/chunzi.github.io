@@ -77,13 +77,9 @@ redirect_from:
 <div class="grid-2">
   <section class="section reveal" id="service">
     <h2 class="section__title"><span class="section__icon">🧐</span> Academic Service</h2>
-    <ul class="list-clean">
-      <li><strong>KDD</strong> <span class="muted">2026</span></li>
-      <li><strong>NeurIPS</strong> <span class="muted">2023, 2024, 2025</span></li>
-      <li><strong>ICML</strong> <span class="muted">2025</span></li>
-      <li><strong>ICLR</strong> <span class="muted">2024, 2025</span></li>
-      <li><strong>AISTATS</strong> <span class="muted">2025</span></li>
-      <li><strong>AAMAS</strong> <span class="muted">2025</span></li>
+    <ul class="service-list">
+      <li><strong>Senior PC</strong>: IJCAI</li>
+      <li><strong>Conference Reviewer</strong>: NeurIPS, ICML, ICLR, KDD, AISTATS, AAMAS</li>
     </ul>
   </section>
 

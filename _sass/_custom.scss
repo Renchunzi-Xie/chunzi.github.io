@@ -829,3 +829,37 @@ a:visited { color: $accent; }
 
 .author__urls-wrapper .author__urls li { padding: 0 .6rem; }
 .author__urls-wrapper .author__urls li > a { margin: 0 -.6rem !important; }
+
+/* ---------- Academic service list ---------- */
+
+.service-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  li {
+    position: relative;
+    padding: .45rem 0 .45rem 2.1rem;
+    line-height: 1.55;
+    color: $ink-soft;
+
+    &::before {
+      content: "\f00c";
+      font-family: "Font Awesome 5 Free";
+      font-weight: 900;
+      position: absolute;
+      left: 0;
+      top: .55rem;
+      width: 1.35rem;
+      height: 1.35rem;
+      border-radius: 50%;
+      background: $ink;
+      color: #fff;
+      font-size: .65rem;
+      display: grid;
+      place-items: center;
+    }
+  }
+
+  strong { color: $ink; }
+}
