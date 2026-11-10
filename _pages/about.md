@@ -76,7 +76,7 @@ redirect_from:
 
 <div class="grid-2">
   <section class="section reveal" id="service">
-    <h2 class="section__title"><span class="section__icon">🧐</span> Invited Reviewer</h2>
+    <h2 class="section__title"><span class="section__icon">🧐</span> Academic Service</h2>
     <ul class="list-clean">
       <li><strong>KDD</strong> <span class="muted">2026</span></li>
       <li><strong>NeurIPS</strong> <span class="muted">2023, 2024, 2025</span></li>
