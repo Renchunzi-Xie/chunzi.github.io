@@ -29,11 +29,6 @@ redirect_from:
     <span class="chip"><i class="fas fa-shield-alt"></i> Robust Machine Learning</span>
   </div>
 
-  <div class="hero__actions">
-    <a class="btn-fancy" href="{{ '/publications/' | relative_url }}"><i class="fas fa-book-open"></i> Publications</a>
-    <a class="btn-fancy btn-fancy--ghost" href="{{ '/cv/' | relative_url }}"><i class="fas fa-id-card"></i> Curriculum Vitae</a>
-    <a class="btn-fancy btn-fancy--ghost" href="{{ site.author.googlescholar }}"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
-  </div>
 </section>
 
 <section class="callout reveal">
